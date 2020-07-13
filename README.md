@@ -1,6 +1,6 @@
-## A simple breakout game made using p5.js
+# A simple breakout game made using p5.js
 
-# Play Game
+## Play Game
 https://apcrypto.github.io/p5js-breakout/
 Use up arrow key to start game and left/right arrows to move the paddle
 
